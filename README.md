@@ -71,15 +71,14 @@ The Power BI dashboard includes interactive visualizations such as:
 
 -  The Superstore Sales Analysis project demonstrates how data analysis and visualization can be used to understand business performance. By analyzing sales, profit, customers, products, and regions, the project provides actionable insights that can support better strategic and operational decisions.
 
-![image](https://github.com/Mickpaul/Telco_Customer_Churn_Dashboard.png)
-Telco_Customer_Churn_Dashboard.png
+![image](https://github.com/Mickpaul/SuperStore_Analysis/blob/main/Superstore.jpg)
+
 
 ## Files
-- churn_analysis.py
-- Telco_Churn_Dashboard.pbix
-- dataset.csv
 
-
+-  Superstore.jpg
+-  Superstore_BI_Report.pbix
+-  Superstore_Cleaned.xlsx
 
 ## 👤 Author
 
